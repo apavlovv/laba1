@@ -1,4 +1,7 @@
-﻿namespace laba
+using System.Collections.Generic;
+using System;
+
+namespace laba
 {
     class Program
     {
